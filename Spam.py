@@ -28,8 +28,8 @@ SPAM SMS BY : PIPATPONG SARAKUM
               
 	""")
 	
-	print("Usage : python spam.py < number > < amount >")
-	print("วิธีใช้   : python spam.py <เบอร์> <จำนวน>" )
+	print("Usage : python Spam.py < number > < amount >")
+	print("วิธีใช้   : python Spam.py <เบอร์> <จำนวน>" )
 	sys.exit(1)
 	
 
